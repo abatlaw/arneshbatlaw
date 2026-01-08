@@ -4,17 +4,17 @@ export default function Home() {
       title: "Lodge",
       subtitle: "Workout Planner",
       description:
-        "A calm, opinionated workout planner that helps you schedule training realistically.",
+        "Opinionated planner that helps schedule fitness activities realistically.",
       status: "live",
       cta: "Open Lodge",
       href: "https://lodge.arneshbatlaw.com",
       bg: "bg-green-50",
     },
     {
-      title: "2026 Bingo Card",
+      title: "2026 Bingo",
       subtitle: "Annual planning tool",
       description:
-        "Lightweight app to track 2026 goals in a fun way.",
+        "Track 2026 goals in a fun, social way.",
       status: "coming-soon",
       cta: "Coming soon",
       href: "#",
@@ -24,7 +24,7 @@ export default function Home() {
       title: "What's next",
       subtitle: "In progress",
       description:
-        "Placeholder for whatever I do next.",
+        "Placeholder for whatever's next.",
       status: "placeholder",
       cta: "–",
       href: "#",
