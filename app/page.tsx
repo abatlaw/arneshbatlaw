@@ -6,7 +6,7 @@ export default function Home() {
       description:
         "Opinionated planner that helps schedule fitness activities realistically.",
       status: "live",
-      cta: "Open Lodge",
+      cta: "Open",
       href: "https://lodge.arneshbatlaw.com",
       bg: "bg-green-50",
     },
@@ -15,9 +15,9 @@ export default function Home() {
       subtitle: "Annual planning tool",
       description:
         "Track 2026 goals in a fun, social way.",
-      status: "coming-soon",
-      cta: "Coming soon",
-      href: "#",
+      status: "live",
+      cta: "Open",
+      href: "https://bingo.arneshbatlaw.com",
       bg: "bg-amber-50",
     },
     {
