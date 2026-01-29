@@ -28,7 +28,7 @@ export default function Home() {
       status: "live",
       cta: "Open",
       href: "https://budget.arneshbatlaw.com",
-      bg: "bg-amber-50",
+      bg: "bg-blue-50",
     },
     {
       title: "What's next",
