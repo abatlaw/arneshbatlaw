@@ -21,6 +21,16 @@ export default function Home() {
       bg: "bg-amber-50",
     },
     {
+      title: "Budget Planner",
+      subtitle: "Spending forecaster",
+      description:
+        "Track and organize upcoming spending.",
+      status: "live",
+      cta: "Open",
+      href: "https://budget.arneshbatlaw.com",
+      bg: "bg-amber-50",
+    },
+    {
       title: "What's next",
       subtitle: "In progress",
       description:
